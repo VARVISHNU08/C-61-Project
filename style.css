@@ -1,0 +1,29 @@
+img{
+  width:30%;
+  border-radius:50px;
+}
+h1{
+  font-size:30px;
+  font-family:'Dancing Script', cursive;
+}
+body{
+  background:linear-gradient(#0084ff 0%,#00ff48 50%,#ffee00 100%)
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    float:left;
+}
+#headingmain{
+    font-family: 'Bonheur Royale', cursive;
+}
+.links:hover{
+    background: white;
+    color:red;
+}
+#menu{
+    position:fixed;
+}
